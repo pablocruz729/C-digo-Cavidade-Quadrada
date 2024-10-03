@@ -1,2 +1,4 @@
 py = 2
 print(py)
+a = 5*py
+print(a)

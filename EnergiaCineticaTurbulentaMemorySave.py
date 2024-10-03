@@ -7,6 +7,8 @@ import matplotlib.pyplot as plt
 import os
 import gc
 
+b = 5
+
 # Carregando o arquivo VTK
 
 #%%

@@ -7,7 +7,7 @@ import os
 import gc
 
 # Carregando o arquivo VTK
-
+s
 #%%
 run = '015'
 path = fr"./../bin/TEST/{run}/"
